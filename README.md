@@ -1,6 +1,6 @@
 # autoadb
 
-Automate common place annoying tasks having to do with ADB
+Automate common place annoying tasks having to do with ADB.
 
 This script automates common tasks with the Android Debug Bridge (ADB) tool. Here are the features included in the script:
 
